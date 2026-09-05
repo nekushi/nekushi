@@ -34,17 +34,5 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=nekushi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nekushi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.nekushi }}
-
-    - palette:        github-dark
-    - color_snake:       #CBC3E3
- 
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
